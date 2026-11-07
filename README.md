@@ -1,8 +1,6 @@
 # Day-1-Hitman_Mahawira-Muhammad-Rafid-Riyadi
 expectik mission
 
-# Day-1-KelompokX_Mahawira-Muhammad-Rafid-Riyadi
-
 ## Deskripsi Repository
 Repository ini dibuat untuk menyimpan seluruh dokumentasi dan catatan kegiatan **Proyek Workshop Day 1** dengan topik *"Building with AI, Managing Change with GitHub"*[cite: 3].
 
